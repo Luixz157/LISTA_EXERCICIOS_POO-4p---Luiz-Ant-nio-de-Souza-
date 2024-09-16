@@ -1,0 +1,11 @@
+src -> pt_br -> srp _ ocp _ lsp _ isp _ dip
+1 - SRP = Single responsibility principle -> 
+solucao -
+violacao -
+2 - OCP = Open-Closed principle
+
+3 - LSP = Liskov substitution principle
+
+4 - ISP = Interface Segregation principle
+
+5 - DIP = Dependency Invesion Principle
