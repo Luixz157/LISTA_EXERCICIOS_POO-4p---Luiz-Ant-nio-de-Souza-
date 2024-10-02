@@ -1,0 +1,7 @@
+
+Classe Pagamento
+Crie uma classe chamada Pagamento que possua métodos para processar pagamentos em diferentes métodos (cartão, boleto, etc.). Crie uma interface ProcessadorPagamento e implemente essa interface em classes específicas para cada método de pagamento.
+
+Classe Turma
+Implemente uma classe chamada Turma que possua uma lista de alunos. Adicione métodos para calcular a média da turma, listar os alunos aprovados, e verificar quantos alunos foram reprovados.
+
